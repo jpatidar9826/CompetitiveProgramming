@@ -1,0 +1,1 @@
+{"name":"Local: 507B","url":"d:\\J Documents\\codeforces\\507B.cpp","tests":[{"id":1660298144137,"input":"2 0 0 0 4\n","output":""},{"id":1660299089248,"input":"1 1 1 4 4\n","output":""},{"id":1660299105304,"input":"4 5 6 5 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\507B.cpp","group":"local","local":true}

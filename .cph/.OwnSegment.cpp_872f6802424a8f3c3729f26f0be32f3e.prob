@@ -1,0 +1,1 @@
+{"name":"Local: OwnSegment","url":"d:\\J Documents\\codeforces\\OwnSegment.cpp","tests":[{"id":1658739320855,"input":"3\n0 5\n2 8\n1 6\n","output":""},{"id":1658739358610,"input":"3\n0 10\n1 5\n7 15\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\OwnSegment.cpp","group":"local","local":true}

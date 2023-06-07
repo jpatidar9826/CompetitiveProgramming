@@ -1,0 +1,1 @@
+{"name":"Local: 1719A","url":"d:\\J Documents\\codeforces\\1719A.cpp","tests":[{"id":1660662516289,"input":"6\n1 1\n1 4\n5 6\n2 2\n6 3\n999999999 1000000000\n","output":"Tonya\nBurenka\nBurenka\nTonya\nBurenka\nBurenka\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\1719A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: LeftRight","url":"d:\\J Documents\\codeforces\\LeftRight.cpp","tests":[{"id":1658385587950,"input":"6\nLLRLLL\n","output":"1 4\n2 5\n6 3\n"},{"id":1658386774840,"input":"4\nRRLL","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\LeftRight.cpp","group":"local","local":true}

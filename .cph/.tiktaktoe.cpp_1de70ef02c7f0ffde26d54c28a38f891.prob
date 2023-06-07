@@ -1,0 +1,1 @@
+{"name":"Local: tiktaktoe","url":"d:\\J Documents\\codeforces\\tiktaktoe.cpp","tests":[{"id":1654768396787,"input":"3\nxxo\nxox\noxx\n","output":"YES\n"},{"id":1654768422849,"input":"4\nxxxo\nxoxo\noxox\nxxxx\n","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\tiktaktoe.cpp","group":"local","local":true}

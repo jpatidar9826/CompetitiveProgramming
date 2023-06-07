@@ -1,0 +1,1 @@
+{"name":"Local: EvenOdds","url":"d:\\J Documents\\codeforces\\EvenOdds.cpp","tests":[{"id":1654597816437,"input":"10 3\n","output":"5"},{"id":1654597827586,"input":"7 7\n","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\EvenOdds.cpp","group":"local","local":true}

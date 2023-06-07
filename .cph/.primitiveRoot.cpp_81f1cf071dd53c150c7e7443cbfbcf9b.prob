@@ -1,0 +1,1 @@
+{"name":"Local: primitiveRoot","url":"d:\\J Documents\\codeforces\\primitiveRoot.cpp","tests":[{"id":1658219194619,"input":"3\n","output":"1"},{"id":1658219212136,"input":"5\n","output":""},{"id":1658219273823,"input":"17","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\primitiveRoot.cpp","group":"local","local":true}

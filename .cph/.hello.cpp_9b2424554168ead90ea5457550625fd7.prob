@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"d:\\J Documents\\codeforces\\hello.cpp","tests":[{"id":1654499652357,"input":"ahhellllloou","output":"YES"},{"id":1654499660500,"input":"hlelo","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\hello.cpp","group":"local","local":true}

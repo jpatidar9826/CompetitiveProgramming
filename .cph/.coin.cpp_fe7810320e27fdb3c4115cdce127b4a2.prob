@@ -1,0 +1,1 @@
+{"name":"Local: coin","url":"d:\\J Documents\\codeforces\\coin.cpp","tests":[{"id":1654498246678,"input":"2\n3 3\n","output":"2\n"},{"id":1654498259564,"input":"3\n2 1 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\coin.cpp","group":"local","local":true}

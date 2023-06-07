@@ -1,0 +1,1 @@
+{"name":"Local: chord","url":"d:\\J Documents\\codeforces\\chord.cpp","tests":[{"id":1658561554622,"input":"C E G\n","output":""},{"id":1658561752657,"input":"C# B F\n","output":""},{"id":1658561872442,"input":"A B H","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\chord.cpp","group":"local","local":true}

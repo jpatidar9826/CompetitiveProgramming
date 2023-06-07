@@ -1,0 +1,1 @@
+{"name":"Local: stairs","url":"d:\\J Documents\\codeforces\\stairs.cpp","tests":[{"id":1654758258631,"input":"10 2\n","output":"6\n"},{"id":1654758268208,"input":"3 5","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\J Documents\\codeforces\\stairs.cpp","group":"local","local":true}
